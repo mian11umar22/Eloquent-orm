@@ -1,0 +1,71 @@
+[
+{
+    "id": "1",
+    "name": "Ali",
+    "age": 30,
+    "address": "123 Main St",
+    "salary": 5000
+},
+{
+    "id": "2",
+    "name": "Umar",
+    "age": 25,
+    "address": "456 Elm St",
+    "salary": 6000
+},
+{
+    "id": "3",
+    "name": "Saif",
+    "age": 40,
+    "address": "789 Oak St",
+    "salary": 7000
+},
+{
+    "id": "4",
+    "name": "Asad",
+    "age": 35,
+    "address": "321 Pine St",
+    "salary": 8000
+},
+{
+    "id": "5",
+    "name": "Hassan",
+    "age": 28,
+    "address": "654 Maple St",
+    "salary": 9000
+},
+{
+    "id": "6",
+    "name": "Ali",
+    "age": 30,
+    "address": "123 Main St",
+    "salary": 5000
+},{
+    "id": "7",
+    "name": "Umar",
+    "age": 25,
+    "address": "456 Elm St",
+    "salary": 6000
+},
+{
+    "id": "8",
+    "name": "Saif",
+    "age": 40,
+    "address": "789 Oak St",
+    "salary": 7000
+},
+{
+    "id": "9",
+    "name": "Asad",
+    "age": 35,
+    "address": "321 Pine St",
+    "salary": 8000
+},
+{
+    "id": "10",
+    "name": "Hassan",
+    "age": 28,
+    "address": "654 Maple St",
+    "salary": 9000
+}
+]
