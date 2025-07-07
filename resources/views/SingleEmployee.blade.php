@@ -31,4 +31,5 @@ Single Employee
                 </tbody>
             </table>
         </div>
+        <a href="{{ route('employee.index') }}" class="btn btn-danger">back</a>
         @endsection
